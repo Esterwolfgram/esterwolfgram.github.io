@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dewittinfl1-create.github.io/sitemap.xml
